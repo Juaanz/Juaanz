@@ -16,6 +16,8 @@ I currently work for Avanza SA as a Specialized Assistant, I study the career of
 
 -> I have knowledge of JAVA and JAVA Swing, I did an a project for the university using these technologies.
 
+-> I have knowledge of GeneXus 17.
+
 • Contact 📫
 
 You can contact me via email at juampar1496@gmail.com
