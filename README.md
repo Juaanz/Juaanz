@@ -2,7 +2,7 @@ Hello 👋
 
 My name is Juan Pablo, I'm from Uruguay and I'm a Jr Developer.
 
-I currently work for Avanza SA as a Specialized Assistant, I study the career of technologist in computer science, and Jr Developer GeneXus 17.🌱
+I currently work for Avanza SA as a Specialized Assistant, I study the career of technologist in computer science and I'm Genexus 17 Analyst.🌱
 
 • Skills 🧑‍💻
 
@@ -10,9 +10,9 @@ I currently work for Avanza SA as a Specialized Assistant, I study the career of
 
 -> Basic knowledge on JavaScript frameworks as node.js and express.
 
--> I have knowledge of MySQL and SQL Server.
+-> I have knowledge of MySQL, SQL Server and Postgresql.
 
--> I have knowledge of C++ and I did several projects for the university using it
+-> I have knowledge of C++ and I did several projects for the university using it.
 
 -> I have knowledge of JAVA and JAVA Swing, I did an a project for the university using these technologies.
 
@@ -21,3 +21,5 @@ I currently work for Avanza SA as a Specialized Assistant, I study the career of
 • Contact 📫
 
 You can contact me via email at juampar1496@gmail.com
+
+Or my cell phone 095526441 
