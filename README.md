@@ -2,7 +2,7 @@ Hello 👋
 
 My name is Juan Pablo, I'm from Uruguay and I'm a Jr Developer.
 
-I currently work for Avanza SA as a Specialized Assistant, I study the career of technologist in computer science and I'm Genexus 17 Analyst.🌱
+I currently work for GeneXus as Supportist in GAM, I study the career of technologist in computer science and I'm Genexus 17 Analyst.🌱
 
 • Skills 🧑‍💻
 
